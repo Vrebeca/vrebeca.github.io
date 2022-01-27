@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
-title: Edge Workshop Personal Page
-description: A simple template based on minimal jekyll theme
+image: https://drive.google.com/file/d/1hQmJNku6t9_6WXGDLRnZ9L94AdXinPDf/view?usp=sharing
+title: Victoria Ruiz
+description: Life Events Blog
 show_downloads: False
 navigation:
   - title: Home
